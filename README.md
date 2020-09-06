@@ -12,4 +12,4 @@ Software engineer. Passionate about **ML/Deeplearning**.
 ### What I'm doing these days
 
 - Working as fullstack dev at startup company
-- Doing [Andrew Ng's Deep Learning](https://github.com/the-robot/deeplearning) on my free time
+- Doing [Andrew Ng's Deep Learning](https://github.com/the-robot/deeplearning) in my free time
