@@ -1,16 +1,15 @@
-### Hi there 👋
+Software engineer. Passionate about **ML/Deeplearning**.
 
-<!--
-**the-robot/the-robot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I use daily: `python`, `go`, `javascript`, `typescript`, `reactnative`
+- I'm mostly active in **Python Community**
 
-Here are some ideas to get you started:
+### Open Source projects I maintain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [yaat-framework](https://github.com/yaat-project/yaat) `python`
+- [covid19-updates](https://github.com/the-robot/covid19-updates) `js`
+- [sqliv](https://github.com/the-robot/sqliv) `python`
+
+### What I'm doing these days
+
+- Working as fullstack dev at startup company
+- Learning Andrew Ng's Deeplearning on my freetime
