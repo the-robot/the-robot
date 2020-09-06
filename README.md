@@ -1,6 +1,6 @@
 Software engineer. Passionate about **ML/Deep learning**.
 
-- I use daily: `python`, `go`, `javascript`, `typescript`, `reactnative`
+- I use daily: `python`, `golang`, `javascript`, `typescript`, `reactnative`
 - I'm mostly active in **Python Community**
 
 ### Open Source projects I maintain
@@ -11,5 +11,5 @@ Software engineer. Passionate about **ML/Deep learning**.
 
 ### What I'm doing these days
 
-- Working as full-stack dev at the startup company
+- Working as full-stack dev at the startup company (`golang` and `js` most of the time)
 - Doing [Andrew Ng's Deep Learning](https://github.com/the-robot/deeplearning) in my free time
