@@ -6,7 +6,7 @@ Software engineer. Passionate about **ML/Deep learning**.
 ### Open Source projects I maintain
 
 - [yaat-framework](https://github.com/yaat-project/yaat) `python`
-- [covid19-updates](https://github.com/the-robot/covid19-updates) `js`
+- [covid19-updates](https://github.com/the-robot/covid19-updates) `javascript`
 - [sqliv](https://github.com/the-robot/sqliv) `python`
 
 ### What I'm doing these days
