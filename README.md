@@ -13,3 +13,6 @@ Software engineer. Passionate about **ML/Deep learning**.
 
 - Working as full-stack dev at the startup company (`golang` and `typescript` most of the time)
 - Doing [Andrew Ng's Deep Learning](https://github.com/the-robot/deeplearning) in my free time
+
+<br/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true" alt="GitHub Stats"></p>
