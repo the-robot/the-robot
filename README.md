@@ -15,4 +15,4 @@ Software engineer. Passionate about **ML/Deep learning**.
 - Doing [Andrew Ng's Deep Learning](https://github.com/the-robot/deeplearning) in my free time
 
 <br/>
-<p><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true&theme=radical" alt="GitHub Stats"></p>
