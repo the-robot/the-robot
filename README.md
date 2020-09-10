@@ -11,7 +11,7 @@ Software engineer. Passionate about **ML/Deep learning**.
 
 ### What I'm doing these days
 
-- Working as full-stack dev at the startup company <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> (`golang` and `typescript` most of the time)
+- Working as full-stack dev at the startup company <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `golang and typescript most of the time`
 - Studying [Andrew Ng's Deep Learning](https://github.com/the-robot/deeplearning) in my free time <img src="https://media4.giphy.com/media/j2MdR1QwTi7iX6l3sd/giphy.gif" width="30">
 
 <br/>
