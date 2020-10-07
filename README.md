@@ -16,4 +16,4 @@ Software engineer. Passionate about **ML/Deep learning**.
 - In my free time, I also [implement popular network architectures](https://github.com/the-robot/deeplearning/tree/master/architectures/) like ResNet from scratch. 
 
 <br/>
-<p><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true&theme=calm" alt="GitHub Stats" width="450"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true" alt="GitHub Stats" width="450"></p>
