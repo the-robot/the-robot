@@ -1,4 +1,4 @@
-Software engineer. Passionate about **ML/Deep learning**.
+Software engineer. Love to read and do stuffs related to **ML/Deep learning** in free time.
 
 - I use daily: `python`, `golang`, `javascript`, `typescript`, `reactnative`
 - I'm mostly active in **Python Community**
