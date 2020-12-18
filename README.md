@@ -16,4 +16,4 @@ Software engineer. Love to read and do stuffs related to **ML/Deep learning** in
 - I like to read deep learning stuffs in my freetime (mostly related to computer vision right now) and currently I am working on object detection and image segmentation project using [YOLOv4/Darknet](https://pjreddie.com/darknet/yolo/) and [U²Net](https://arxiv.org/abs/2005.09007).
 
 <br/>
-<p><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true" alt="GitHub Stats" width="450"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width="450"></p>
