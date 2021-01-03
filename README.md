@@ -1,7 +1,7 @@
 Software engineer. Love to read and do stuffs related to **ML/Deep learning** in free time.
 
-- I use daily: `python`, `golang`, `javascript`, `typescript`, `reactnative`
-- I'm mostly active in **Python Community**
+- I am writing quite a lot these days in: `golang`, `c++`, `python`
+- Have done several projects with these: `golang`, `python`, `javasript`, `typescript`, `reactnative`
 
 ### Open Source projects I maintain
 
