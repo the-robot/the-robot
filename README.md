@@ -14,7 +14,7 @@ Software engineer. Love to read and do stuffs related to **ML/Deep learning** in
 - Working as full-stack dev at the startup company <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `golang and typescript most of the time + some python`
 - I like to read deep learning stuffs in my freetime (mostly related to computer vision right now) and currently I am working on object detection and image segmentation project using [YOLOv4/Darknet](https://pjreddie.com/darknet/yolo/) and [U²Net](https://arxiv.org/abs/2005.09007).
 - Doing some work in Libtorch/C++ to experiment real time computer vision projects. <img src="https://media4.giphy.com/media/j2MdR1QwTi7iX6l3sd/giphy.gif" width="30">
-- Grind leetcode ocationally
+- Grind leetcode occasionally
 
 <br/>
 <p><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width="450"></p>
