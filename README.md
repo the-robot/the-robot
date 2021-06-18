@@ -3,7 +3,7 @@ Software engineer. Love to read and do stuffs related to **ML/Deep learning** in
 - Working more these days in: `golang`, `c++`, `python`
 - Have done several projects with these: `golang`, `python`, `javasript`, `typescript`, `reactnative`
 
-### Open Source projects I maintain
+### Open Source projects I did before
 
 - [yaat-framework](https://github.com/yaat-project/yaat) `python`
 - [covid19-updates](https://github.com/the-robot/covid19-updates) `javascript`
