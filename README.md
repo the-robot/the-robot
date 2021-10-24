@@ -22,5 +22,5 @@ Work as a software engineer at day, study for OSCP at night.
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width="450"></p>
-<p align="center"><a href="https://github.com/the-robot"><img src="https://img.shields.io/github/followers/the-robot?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true&theme=merko" alt="GitHub Stats" width="450"></p>
+<p align="center"><a href="https://github.com/the-robot"><img src="https://img.shields.io/github/followers/the-robot?color=%2365B57B&logoColor=65B57B&logo=github&style=for-the-badge"></a></p>
