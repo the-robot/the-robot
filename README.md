@@ -20,7 +20,5 @@ Work as a software engineer at day, study for OSCP at night.
 - Working at the startup as a software engineer (Go, Python, and JS) and also as DevOps (work mostly with ELK, Prometheus, Grafana in K8 cluster). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Study for OSCP exam during my free time. <img src="https://media4.giphy.com/media/j2MdR1QwTi7iX6l3sd/giphy.gif" width="30">
 
----
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true&theme=merko" alt="GitHub Stats" width="450"></p>
 <p align="center"><a href="https://github.com/the-robot"><img src="https://img.shields.io/github/followers/the-robot?color=%2365B57B&logoColor=65B57B&logo=github&style=for-the-badge"></a></p>
