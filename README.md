@@ -17,7 +17,7 @@ Work as a software engineer at day, study for OSCP at night.
 
 ### What I'm doing these days
 
-- Working at the startup <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a software engineer (Go, Python, and JS) and also as DevOps (work mostly with ELK, Prometheus, Grafana in K8 cluster).
+- Working at the startup as a software engineer (Go, Python, and JS) and also as DevOps (work mostly with ELK, Prometheus, Grafana in K8 cluster). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Study for OSCP exam during my free time. <img src="https://media4.giphy.com/media/j2MdR1QwTi7iX6l3sd/giphy.gif" width="30">
 
 ---
