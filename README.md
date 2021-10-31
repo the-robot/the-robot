@@ -4,7 +4,7 @@
 
 ---
 
-Work as a software engineer at day, study for OSCP at night.
+Work as a software engineer at day, study for OSCP when the sun goes down.
 
 - Work mostly these days in: `go`, `python`
 - Have done several projects with these: `go` `python`, `javasript`, `typescript`, `reactnative`
