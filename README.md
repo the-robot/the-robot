@@ -27,4 +27,4 @@ Work as a software engineer from 9-5, study for OSCP exam when the sun goes down
   <a href="mailto:contact@khant.dev"><img src="https://img.shields.io/badge/📩 Email-contact%40khant.dev-gray.svg?colorA=F0F0F0&colorB=3E497A&style=for-the-badge"/></a>
 </p>
 
-<img src="./bgbotom.svg">
+<!-- <img src="./bgbotom.svg"> -->
