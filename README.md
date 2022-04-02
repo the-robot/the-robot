@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif">
 </p>
 
----
-
 Work as a software engineer from 9-5, study for OSCP exam when the sun goes down.
 
 - Work mostly these days in: `go`, `rust`, `python`
@@ -28,3 +26,5 @@ Work as a software engineer from 9-5, study for OSCP exam when the sun goes down
     <!-- <a href="https://keybase.io/0x06"><img src="https://img.shields.io/badge/💬 Keybase-0x06-gray.svg?colorA=F6E7D8&colorB=F68989&style=for-the-badge"/></a> -->
   <a href="mailto:contact@khant.dev"><img src="https://img.shields.io/badge/📩 Email-contact%40khant.dev-gray.svg?colorA=F0F0F0&colorB=3E497A&style=for-the-badge"/></a>
 </p>
+
+<img src="./bgbotom.svg">
