@@ -7,7 +7,7 @@ Work as a software engineer from 9-5, study for OSCP exam when the sun goes down
 - Work mostly these days in: `go`, `rust`, `python`
 - Have done several projects with these: `go` `python`, `javasript`, `typescript`, `reactnative`
 
-### Open-source projects I doing/did before
+### Open-source projects I am doing/did before
 
 - [fireauth](https://github.com/the-robot/fireauth) `rust`
 - [yaat-framework](https://github.com/yaat-project/yaat) `python`
