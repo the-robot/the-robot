@@ -25,7 +25,7 @@ Work as a software engineer from 9-5, study for OSCP exam when the sun goes down
 </p>
 <p align="center">
   <a href="https://github.com/the-robot"><img src="https://img.shields.io/github/followers/the-robot?color=%2365B57B&logoColor=65B57B&logo=github&style=for-the-badge"></a>
-  <a href="https://app.hackthebox.com/users/607153">
+  <a href="https://app.hackthebox.com/profile/607153">
     <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox" />
   </a>
   <a href="https://leetcode.com/the-robot/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthe-robot&logo=leetcode&logoColor=yellow"/></a>
