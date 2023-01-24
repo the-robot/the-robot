@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif">
 </p>
 
-Work as a software engineer from 9-5, study for OSCP exam when the sun goes down.
+Work as a software engineer from 9-5, OSCP certified and preparing OSWE exam with the end goal of achieving OSCE.
 
 - Work mostly these days in: `go`, `rust`, `python`
 - Have done several projects with these: `go` `python`, `javasript`, `typescript`, `reactnative`
