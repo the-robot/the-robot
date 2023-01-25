@@ -17,7 +17,7 @@ Work as a software engineer from 9-5, OSCP certified and preparing OSWE exam wit
 ### What I'm doing these days
 
 - Working at the startup as a software engineer (Go, Python, and JS) and also as DevOps (work mostly with ELK, Prometheus, Grafana in K8s cluster). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Study for OSCP exam during my free time. <img src="https://media4.giphy.com/media/j2MdR1QwTi7iX6l3sd/giphy.gif" width="30">
+- Studying AWAE for OSWE exam. <img src="https://media4.giphy.com/media/j2MdR1QwTi7iX6l3sd/giphy.gif" width="30">
 - Browse [devrant](https://devrant.com)
 
 <p align="center">
