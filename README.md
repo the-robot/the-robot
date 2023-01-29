@@ -5,7 +5,7 @@
 Work as a software engineer from 9-5, OSCP certified and preparing OSWE exam with the end goal of achieving OSCE.
 
 - CTF player and quite active on HackTheBox *(you can find my write-ups [here](https://github.com/the-robot/offsec) 🙂)*
-- Work mostly these days in: `typescript`, `python`
+- Work mostly these days in: `python`, `typescript` with some serverless stacks
 - Previously worked with
   - these languages: `go` `python`, `rust`, `javasript`, `typescript`, `reactnative`
   - these stuffs: `kubernetes`, `terraform`, `kafka`, `elasticsearch`, `prometheus`
