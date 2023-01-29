@@ -4,10 +4,13 @@
 
 Work as a software engineer from 9-5, OSCP certified and preparing OSWE exam with the end goal of achieving OSCE.
 
-- Work mostly these days in: `go`, `rust`, `python`
-- Have done several projects with these: `go` `python`, `javasript`, `typescript`, `reactnative`
+- CTF player and quite active on HackTheBox (you can find my HackTheBox write ups [here](https://github.com/the-robot/offsec) 🙂)
+- Work mostly these days in: `typescript`, `python`
+- Previously worked with
+  - these languages: `go` `python`, , `rust`, `javasript`, `typescript`, `reactnative`
+  - these stuffs: `kuerbenetes`, `terraform`, `kafka`, `elasticsearch`, `prometheus`
 
-### Open-source projects I am doing/did before
+### Open-source projects I did before
 
 - [fireauth](https://github.com/the-robot/fireauth) `rust`
 - [yaat-framework](https://github.com/yaat-project/yaat) `python`
@@ -16,8 +19,8 @@ Work as a software engineer from 9-5, OSCP certified and preparing OSWE exam wit
 
 ### What I'm doing these days
 
-- Working at the startup as a software engineer (Go, Python, and JS) and also as DevOps (work mostly with ELK, Prometheus, Grafana in K8s cluster). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Studying AWAE for OSWE exam. <img src="https://media4.giphy.com/media/j2MdR1QwTi7iX6l3sd/giphy.gif" width="30">
+- Working at [@opengovsg](https://github.com/opengovsg/) as software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Wandering around Cybersec discords and studying AWAE for OSWE exam. <img src="https://media4.giphy.com/media/j2MdR1QwTi7iX6l3sd/giphy.gif" width="30">
 - Browse [devrant](https://devrant.com)
 
 <p align="center">
