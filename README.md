@@ -3,7 +3,7 @@
 </p>
  -->
  
-Software enginner at [@opengovsg](https://github.com/opengovsg/), OSCP certified and preparing for OSWE exam.
+Software engineer at [@opengovsg](https://github.com/opengovsg/), OSCP certified and preparing for OSWE exam.
 
 - CTF player and quite active on HackTheBox *(you can find my write-ups [here](https://github.com/the-robot/offsec) 🙂)*
 - [XPS 17](https://www.dell.com/en-sg/shop/cty/xps-17-laptop/spd/xps-17-9720-laptop) with [Pop!\_OS](https://pop.system76.com/) for my daily driver
