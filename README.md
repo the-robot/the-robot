@@ -5,10 +5,7 @@
 Work as a software engineer from 9-5, OSCP certified and preparing OSWE exam with the end goal of achieving OSCE.
 
 - CTF player and quite active on HackTheBox *(you can find my write-ups [here](https://github.com/the-robot/offsec) 🙂)*
-- Work mostly these days in: `python`, `typescript` with some serverless stacks
-- Previously worked with
-  - these languages: `go` `python`, `rust`, `javasript`, `typescript`, `reactnative`
-  - these stuffs: `kubernetes`, `terraform`, `kafka`, `elasticsearch`, `prometheus`
+- Using [XPS 17](https://www.dell.com/en-sg/shop/cty/xps-17-laptop/spd/xps-17-9720-laptop) with [Pop!\_OS from System76](https://pop.system76.com/).
 
 ### Open-source projects I did before
 
