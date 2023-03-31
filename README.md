@@ -29,3 +29,5 @@ Software engineer at [@opengovsg](https://github.com/opengovsg/), OSCP certified
 </p>
 
 <!-- <img src="./bgbotom.svg"> -->
+
+<img src="./yakuza 0.png">
