@@ -17,6 +17,7 @@ Software engineer at [open.gov.sg](https://www.open.gov.sg), I deal with Elastic
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450">
+   <img width="450px" src="https://github.com/the-robot/the-robot/assets/9334746/9d955a63-e60e-497f-97f3-8b8ef7c9d664" />
 </p>
 <p align="center">
 <!--   <a href="https://github.com/the-robot"><img src="https://img.shields.io/github/followers/the-robot?color=%2365B57B&logoColor=65B57B&logo=github&style=for-the-badge"></a> -->
@@ -32,3 +33,4 @@ Software engineer at [open.gov.sg](https://www.open.gov.sg), I deal with Elastic
 <!-- <img src="./bgbotom.svg"> -->
 
 <!-- <img src="./yakuza 0.png"> -->
+
