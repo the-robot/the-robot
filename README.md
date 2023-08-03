@@ -27,8 +27,8 @@ I am also pursuing Master in Computer Science with Cyber Security at [University
   <a href="https://app.hackthebox.com/profile/607153">
     <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox" />
   </a>
-  <a href="https://leetcode.com/the-robot/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthe-robot&logo=leetcode&logoColor=yellow"/></a>
-<a href="https://keybase.io/0x06"><img src="https://img.shields.io/badge/💬 Keybase-0x06-gray.svg?colorA=F6E7D8&colorB=F68989&style=for-the-badge"/></a>
+<!--   <a href="https://leetcode.com/the-robot/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthe-robot&logo=leetcode&logoColor=yellow"/></a> -->
+<!-- <a href="https://keybase.io/0x06"><img src="https://img.shields.io/badge/💬 Keybase-0x06-gray.svg?colorA=F6E7D8&colorB=F68989&style=for-the-badge"/></a> -->
   <a href="mailto:contact@khant.dev"><img src="https://img.shields.io/badge/📩 Email-contact%40khant.dev-gray.svg?colorA=F0F0F0&colorB=3E497A&style=for-the-badge"/></a>
 <!--   <a href="https://tryhackme.com/p/1iquid"><img src="https://tryhackme-badges.s3.amazonaws.com/1iquid.png" alt="TryHackMe"></a> -->
 </p>
