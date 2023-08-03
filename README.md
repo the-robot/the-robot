@@ -19,7 +19,7 @@ I am also pursuing Master in Computer Science with Cyber Security at [University
 - Browse [devrant](https://devrant.com) -->
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450">
+<!--    <img src="https://github-readme-stats.vercel.app/api?username=the-robot&amp;show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450"> -->
    <img width="450px" src="https://github.com/the-robot/the-robot/assets/9334746/9d955a63-e60e-497f-97f3-8b8ef7c9d664" />
 </p>
 <p align="center">
