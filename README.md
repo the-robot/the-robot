@@ -4,7 +4,10 @@
  -->
  
 Software engineer at [open.gov.sg](https://www.open.gov.sg), I deal with Elastic Search service a lot these days for government data platform, https://data.gov.sg.  
-[OSCP certified](https://www.credential.net/e75d6e03-9a16-4c4e-b9a9-e4f3f6fd0591) and preparing for OSWE exam and also got sideway with HackTheBox's CBBH exam.
+
+[OSCP certified](https://www.credential.net/e75d6e03-9a16-4c4e-b9a9-e4f3f6fd0591) with the goal of obtaining OSWE.
+
+I am also pursuing Master in Computer Science with Cyber Security at [University of York](https://www.york.ac.uk).
 
 - active on HackTheBox these days *(you can find my write-ups [here](https://github.com/the-robot/offsec) 🙂)*
 - [XPS 17](https://www.dell.com/en-sg/shop/cty/xps-17-laptop/spd/xps-17-9720-laptop) with [Pop!\_OS](https://pop.system76.com/) for my daily driver
