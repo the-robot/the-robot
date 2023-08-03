@@ -3,7 +3,7 @@
 </p>
  -->
  
-Software engineer at [open.gov.sg](https://www.open.gov.sg), I deal with Elastic Search service a lot these days for government data platform, https://data.gov.sg.  
+Software engineer at [open.gov.sg](https://www.open.gov.sg), I deal with Elastic Search service a lot these days for government data platform, [data.gov.sg](https://data.gov.sg).  
 
 [OSCP certified](https://www.credential.net/e75d6e03-9a16-4c4e-b9a9-e4f3f6fd0591) with the goal of obtaining OSWE.
 
